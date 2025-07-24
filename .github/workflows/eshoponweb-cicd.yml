@@ -7,7 +7,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-eastus2
   LOCATION: eastus2
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: ab856b80-8226-4ddb-97f6-8ba0ad1a65df
+  SUBSCRIPTION-ID: 99ccd57d-a8ff-425c-b584-5023ffa1b73d
   WEBAPP-NAME: devops-webapp-eastus2-53252470
 
 
